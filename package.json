@@ -1,0 +1,38 @@
+{
+    "name": "ecksclone",
+    "displayName": "ecksClone",
+    "description": "Yet Another Xcode Theme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "Nevexo",
+    "keywords": [
+        "xcode",
+        "theme",
+        "dark",
+        "macos"
+    ],
+    "bugs": {
+        "url": "https://github.com/Nevexo/ecksClone/issues",
+        "email": "cameron@nevexo.space"
+    },
+    "homepage": "https://github.com/Nevexo/ecksClone",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Nevexo/ecksClone"
+    },
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ecksClone",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ecksClone-color-theme.json"
+            }
+        ]
+    },
+    "license": "MIT"
+}

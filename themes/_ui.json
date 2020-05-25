@@ -1,0 +1,20 @@
+{
+    "colors": {
+		"editor.background": "#292a2f",
+		"editor.foreground": "#eeffff",
+        "activityBarBadge.background": "#007AFF",
+		"activityBar.background": "#242527",        
+        "statusBar.background": "#2c2d30",
+		"statusBar.border": "#242424",
+        "titleBar.activeBackground": "#2c2d30",
+        "statusBar.debuggingBackground": "#0a84ffcc",
+		"dropdown.background": "#1f1f1f",
+        "sideBar.background": "#2c2d30",
+        "terminal.background": "#1f2022",
+        "terminal.border": "#1f2022",
+        "tab.activeBackground": "#292a2f",
+		"tab.inactiveBackground": "#242527",
+        "tab.activeBorderTop": "#007AFF",
+		"list.hoverBackground": "#242527"
+	}
+}
