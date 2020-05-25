@@ -3,18 +3,20 @@
 		"editor.background": "#292a2f",
 		"editor.foreground": "#eeffff",
         "activityBarBadge.background": "#007AFF",
-		"activityBar.background": "#242527",        
+		"activityBar.background": "#333030",        
         "statusBar.background": "#2c2d30",
 		"statusBar.border": "#242424",
-        "titleBar.activeBackground": "#2c2d30",
+        "titleBar.activeBackground": "#1f1e1e",
         "statusBar.debuggingBackground": "#0a84ffcc",
 		"dropdown.background": "#1f1f1f",
-        "sideBar.background": "#2c2d30",
+        "sideBar.background": "#333030",
         "terminal.background": "#1f2022",
         "terminal.border": "#1f2022",
         "tab.activeBackground": "#292a2f",
 		"tab.inactiveBackground": "#242527",
-        "tab.activeBorderTop": "#007AFF",
-		"list.hoverBackground": "#242527"
+        "tab.activeBorderTop": "#c9c9c9",
+        "list.hoverBackground": "#242527",
+        "list.activeSelectionBackground": "#1f1e1e",
+        "list.activeSelectionForeground": "#ffffff"
 	}
 }
