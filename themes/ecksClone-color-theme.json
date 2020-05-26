@@ -86,8 +86,7 @@
 			"name": "Template Strings & Puncuation",
 			"scope": [
 				"keyword.other.template",
-				"keyword.other.substitution",
-				"punctuation"
+				"keyword.other.substitution"
 			],
 			"settings": {
 				"foreground": "#EEFFFF"
@@ -191,7 +190,7 @@
 				"entity.name.function"
 			],
 			"settings": {
-				"foreground": "#b5e9dd",
+				"foreground": "#b5e9dd"
 			}
 		},
 		{
