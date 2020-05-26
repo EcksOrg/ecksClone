@@ -3,7 +3,7 @@ Yet Another Xcode like theme for Visual Studio Code.
 
 ## Screenshots
 
-![ecksClone-Dark](https://raw.githubusercontent.com/Nevexo/ecksclone/master/screenshots/dark.png "ecksClone Dark")
+![ecksClone-Dark](https://raw.githubusercontent.com/Nevexo/ecksclone/master/screenshots/ecksCloneDark.png "ecksClone Dark")
 
 *Font: Fira Code Retina*
 
