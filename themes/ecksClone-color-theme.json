@@ -23,7 +23,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#7ab1c5"
 			}
 		},
 		{
@@ -79,7 +79,7 @@
 				"keyword.operator"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#eb7742"
 			}
 		},
 		{
