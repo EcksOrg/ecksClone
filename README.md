@@ -1,11 +1,24 @@
 # ecksClone
-Yet Another Xcode like theme for Visual Studio Code.
+Yet Another Xcode like theme for Visual Studio Code, by 
+[Nevexo](https://nevexo.space) and [Jack-JB](https://github.com/jack-jb)
 
 ## Screenshots
 
-![ecksClone-Dark](https://raw.githubusercontent.com/Nevexo/ecksclone/master/screenshots/ecksCloneDark.png "ecksClone Dark")
+#### ecksClone Pastel Pastel
+
+![ecksClone-Pastel-Dark](https://raw.githubusercontent.com/Nevexo/ecksclone/master/screenshots/ecksCloneDark.png "ecksClone Dark")
 
 *Font: Fira Code Retina*
+
+## Installation
+
+You can install this theme from [The Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=NevexoJack-JB.ecksclone)
+or by installing the VSIX file from the latest [release](https://github.com/nevexo/ecksClone/releases).
+
+The VSIX file can be installed by opening the extensions panel, clicking the 'More Actions' button (top right)
+and selecting "Install from VSIX...", select the downloaded file and change your colour theme with the command
+palette (CTRL + SHIFT + P)
+
 
 ## Inspiration
 
