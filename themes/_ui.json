@@ -16,7 +16,7 @@
 		"tab.inactiveBackground": "#242527",
         "tab.activeBorderTop": "#c9c9c9",
         "list.hoverBackground": "#242527",
-        "list.activeSelectionBackground": "#1f1e1e",
+        "list.activeSelectionBackground": "#2c2b2b",
         "list.activeSelectionForeground": "#ffffff"
 	}
 }
