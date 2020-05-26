@@ -23,7 +23,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#7ab1c5"
 			}
 		},
 		{
@@ -76,23 +76,22 @@
 				"punctuation.definition.tag.begin.html",
 				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
-				"keyword.operator"
+				"keyword.operator",
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#eb7742"
 			}
 		},
 		{
-			"name": "Template Strings & Puncuation",
+			"name": "Template Strings",
 			"scope": [
 				"keyword.other.template",
-				"keyword.other.substitution",
-				"punctuation"
+				"keyword.other.substitution"
 			],
 			"settings": {
 				"foreground": "#EEFFFF"
 			}
-		},
+		}, 
 		{
 			"name": "Tag",
 			"scope": [
@@ -115,7 +114,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#b5e9dd"
+				"foreground": "#9fd3c7"
 			}
 		},
 		{
@@ -191,7 +190,7 @@
 				"entity.name.function"
 			],
 			"settings": {
-				"foreground": "#b5e9dd",
+				"foreground": "#9fd3c7",
 			}
 		},
 		{
