@@ -2,7 +2,7 @@
     "name": "ecksclone",
     "displayName": "ecksClone",
     "description": "Yet Another Xcode Theme for Visual Studio Code",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "publisher": "NevexoJack-JB",
     "keywords": [
         "xcode",
@@ -28,9 +28,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "ecksClone",
+                "label": "ecksClone Pastel Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/ecksClone-color-theme.json"
+                "path": "./themes/ecksClone-pastel-dark-color-theme.json"
             }
         ]
     },

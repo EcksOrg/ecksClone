@@ -1,7 +1,7 @@
 {
 	"name": "ecksClone Dark",
 	"type": "dark",
-	"include": "./_ui.json",
+	"include": "./_dark_ui.json",
 	"colors": {
 	},
 	"tokenColors": [
