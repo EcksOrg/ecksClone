@@ -28,9 +28,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "ecksClone",
+                "label": "ecksClone Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/ecksClone-color-theme.json"
+            },
+            {
+                "label": "ecksClone Light",
+                "uiTheme": "vs",
+                "path": "./themes/ecksClone-light-color-theme.json"
             }
         ]
     },
