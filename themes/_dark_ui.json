@@ -5,6 +5,7 @@
         "activityBarBadge.background": "#007AFF",
 		"activityBar.background": "#333030",        
         "statusBar.background": "#2c2d30",
+        "statusBar.noFolderBackground": "#2c2d30",
 		"statusBar.border": "#242424",
         "titleBar.activeBackground": "#1f1e1e",
         "statusBar.debuggingBackground": "#0a84ffcc",
