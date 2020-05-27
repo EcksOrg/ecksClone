@@ -649,6 +649,7 @@
 				"foreground": "#EEFFFF"
 			}
 		},
+		// Python Specific
 		{
 			"name": "Python - parenthesis",
 			"scope": [
@@ -668,6 +669,16 @@
 			],
 			"settings": {
 				"foreground": "#EF8776",
+			}
+		},
+		// JavaScript Spceific
+		{
+			"name": "JavaScript - Template Strings",
+			"scope": [
+				"meta.template.expression.js"
+			],
+			"settings": {
+				"foreground": "#EEFFFF"
 			}
 		}
 	]
