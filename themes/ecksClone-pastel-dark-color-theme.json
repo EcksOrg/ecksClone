@@ -4,6 +4,9 @@
 	"include": "./_dark_ui.json",
 	"colors": {
 	},
+	"semanticTokenColors": {
+		
+	},
 	"tokenColors": [
 		{
 			"name": "Comment",
