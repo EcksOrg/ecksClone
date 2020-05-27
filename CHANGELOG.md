@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.2.1
+
+This minor patch resolves statusBar issues (when no folder is open) and issues with Python/JavaScript specific formatting.
+
 ## 0.2.0
 
 Resolved some git issues, updated syntax highlighting for strings & Python functions and added GitHub Actions CI.
