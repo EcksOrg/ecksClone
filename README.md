@@ -4,7 +4,7 @@ Yet Another Xcode like theme for Visual Studio Code, by
 
 ## Screenshots
 
-#### ecksClone Pastel Pastel
+#### ecksClone Pastel
 
 ![ecksClone-Pastel-Dark](https://raw.githubusercontent.com/Nevexo/ecksclone/master/screenshots/ecksCloneDark.png "ecksClone Dark")
 
