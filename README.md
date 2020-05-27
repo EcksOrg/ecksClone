@@ -8,7 +8,7 @@ Yet Another Xcode like theme for Visual Studio Code, by
 
 ![ecksClone-Pastel-Dark](https://raw.githubusercontent.com/Nevexo/ecksclone/master/screenshots/ecksCloneDark.png "ecksClone Dark")
 
-p*Font: Fira Code Retina*](https://github.com/tonsky/FiraCode)
+[*Font: Fira Code Retina*](https://github.com/tonsky/FiraCode)
 
 ## Installation
 
