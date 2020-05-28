@@ -114,7 +114,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#b5e9dd"
+				"foreground": "#71b9a8"
 			}
 		},
 		{
@@ -190,7 +190,7 @@
 				"entity.name.function"
 			],
 			"settings": {
-				"foreground": "#b5e9dd"
+				"foreground": "#71b9a8"
 			}
 		},
 		{
