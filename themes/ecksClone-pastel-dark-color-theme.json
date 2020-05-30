@@ -656,10 +656,21 @@
 				"punctuation.definition.arguments.end.python",
 				"punctuation.definition.arguments.begin.python",
 				"punctuation.parenthesis.end.python",
-				"punctuation.parenthesis.begin.python"
+				"punctuation.parenthesis.begin.python",
 			],
 			"settings": {
 				"foreground": "#FFFFFF",
+			}
+		},
+		{
+			"name": "Python - Argument call brace & separator",
+			"scope": [
+				"punctuation.definition.dict.begin.python",
+				"punctuation.definition.dict.end.python",
+				"punctuation.separator.dict.python"
+			],
+			"settings": {
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
