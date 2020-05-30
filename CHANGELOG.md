@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.2.2
+
+Includes updated syntax highlighting mainly focusing on Python. General minor bugfixes.
+
 ## 0.2.1
 
 This minor patch resolves statusBar issues (when no folder is open) and issues with Python/JavaScript specific formatting.
