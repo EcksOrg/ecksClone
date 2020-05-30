@@ -1,0 +1,20 @@
+{
+    "colors": {
+		"editor.background": "#EEFFFF",
+		"editor.foreground": "#292a2f",
+        "activityBarBadge.background": "#007AFF",
+		"activityBar.foreground": "#292a2f",
+		"activityBar.background": "#d6d6d6",        
+		"titleBar.activeBackground": "#d6d6d6",
+        "statusBar.background": "#d6d6d6",
+        "statusBar.debuggingBackground": "#0a84ffcc",
+		"dropdown.background": "#1f1f1f",
+        "sideBar.background": "#d6d6d6",
+        "terminal.background": "#1f2022",
+        "terminal.border": "#1f2022",
+        "tab.activeBorderTop": "#007AFF",
+        "list.hoverBackground": "#242527",
+        "list.activeSelectionBackground": "#2c2b2b",
+        "list.activeSelectionForeground": "#ffffff"
+	}
+}
