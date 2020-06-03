@@ -4,6 +4,7 @@
     "description": "Yet Another Xcode Theme for Visual Studio Code",
     "version": "0.2.2",
     "publisher": "NevexoJack-JB",
+    "icon": "assets/logo.png",
     "keywords": [
         "xcode",
         "theme",
