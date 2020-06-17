@@ -1,6 +1,6 @@
 {
     "colors": {
-		"editor.background": "#EEFFFF",
+		"editor.background": "#dfe4e6",
 		"editor.foreground": "#292a2f",
         "activityBarBadge.background": "#007AFF",
 		"activityBar.foreground": "#292a2f",
@@ -8,7 +8,7 @@
 		"titleBar.activeBackground": "#d6d6d6",
         "statusBar.background": "#d6d6d6",
         "statusBar.debuggingBackground": "#0a84ffcc",
-		"dropdown.background": "#1f1f1f",
+		"dropdown.background": "#FFFFFF",
         "sideBar.background": "#d6d6d6",
         "terminal.background": "#1f2022",
         "terminal.border": "#1f2022",
