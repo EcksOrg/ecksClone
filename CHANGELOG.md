@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.2.3
+
+Added logo
+
 ## 0.2.2
 
 Includes updated syntax highlighting mainly focusing on Python. General minor bugfixes.

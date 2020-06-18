@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="128" height="128" src="https://raw.githubusercontent.com/Nevexo/ecksclone/master/assets/logo.png">
+</p>
+
 # ecksClone
 Yet Another Xcode like theme for Visual Studio Code, by 
 [Nevexo](https://nevexo.space) and [Jack-JB](https://github.com/jack-jb)
