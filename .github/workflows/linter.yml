@@ -1,11 +1,13 @@
-name: Validate YAML
+name: Validate JSON
 
 on:
   push:
+    branches-ignore: 
+      - 'master'
 
 jobs:
   build:
-    name: Veriy valid YAML (Super-Linter)
+    name: Verify valid JSON (Super-Linter)
     runs-on: ubuntu-latest
     
     steps:
