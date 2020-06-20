@@ -11,6 +11,10 @@
         "dark",
         "macos"
     ],
+    "galleryBanner": {
+        "color": "#007AFF",
+        "theme": "light"
+    },
     "bugs": {
         "url": "https://github.com/Nevexo/ecksClone/issues",
         "email": "cameron@nevexo.space"
