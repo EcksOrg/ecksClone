@@ -16,9 +16,11 @@
         "terminal.background": "#d6d6d6",
         "terminal.foreground": "#2a2e2e",
         "terminal.border": "#1f2022",
-        "tab.activeBorderTop": "#007AFF",
         "list.hoverBackground": "#b9babd",
         "list.activeSelectionBackground": "#b1b2b5",
-        "list.activeSelectionForeground": "#ffffff"
+        "list.activeSelectionForeground": "#ffffff",
+        "tab.activeBackground": "#d6d6d6",
+        "tab.activeBorderTop": "#2a2e2e",
+        "tab.border": "#2a2e2e"
 	}
 }
