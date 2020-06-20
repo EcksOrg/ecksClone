@@ -20,7 +20,7 @@
         "list.activeSelectionBackground": "#b1b2b5",
         "list.activeSelectionForeground": "#ffffff",
         "tab.activeBackground": "#d6d6d6",
-        "tab.activeBorderTop": "#2a2e2e",
+        "tab.activeBorderTop": "#60aefc",
         "tab.border": "#2a2e2e"
 	}
 }
