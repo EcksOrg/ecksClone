@@ -83,7 +83,7 @@
 				"keyword.operator",
 			],
 			"settings": {
-				"foreground": "#eb7742"
+				"foreground": "#ff7059"
 			}
 		},
 		{
@@ -118,7 +118,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#9fd3c7"
+				"foreground": "#5ead9b"
 			}
 		},
 		{
@@ -169,7 +169,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#ef8776"
+				"foreground": "#ff7059"
 			}
 		},
 		{
