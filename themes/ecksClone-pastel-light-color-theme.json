@@ -2,11 +2,7 @@
 	"name": "ecksClone Pastel Light",
 	"type": "light",
 	"include": "./_light-ui.json",
-	"colors": { 
-		"editor.background": "#FFFFFF",
-		"statusBar.background": "#dddddd",
-		"statusBar.foreground": "#000000",
-		"sideBar.foreground": "#000000"
+	"colors": {
 	},
 	"tokenColors": [
 		{
