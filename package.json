@@ -2,7 +2,7 @@
     "name": "ecksclone",
     "displayName": "ecksClone",
     "description": "Yet Another Xcode Theme for Visual Studio Code",
-    "version": "0.2.3",
+    "version": "0.2.4",
     "publisher": "NevexoJack-JB",
     "icon": "assets/logo.png",
     "keywords": [
@@ -13,7 +13,7 @@
     ],
     "galleryBanner": {
         "color": "#007AFF",
-        "theme": "light"
+        "theme": "dark"
     },
     "bugs": {
         "url": "https://github.com/Nevexo/ecksClone/issues",
