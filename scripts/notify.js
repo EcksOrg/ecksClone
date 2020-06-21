@@ -33,7 +33,6 @@ const activate = (context) => {
     const extension = vscode.extensions.getExtension(fqen);
     const installed_version = extension.packageJSON.version;
     const state_version = context.globalState.get("ecksCloneVersion")
-    console.log(`Installed: ${installed_version}, state: ${state_version}`)
 
     // Call the message broker
     // TODO: There's likely a better way to handle this, but I'm rather lazy.
