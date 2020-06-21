@@ -1,5 +1,13 @@
 # Change Log
 
+## 0.2.4
+
+Added notification script, this script will alert users of new features when we upgrade
+the theme. This update doesn't include any messages, but will allow the globalState
+to be populated ready for our next release that will make use of this notification system.
+
+Please see documentation within the script/ directory for more information on the notify system.
+
 ## 0.2.3
 
 Added logo
