@@ -39,5 +39,9 @@
             }
         ]
     },
+    "main": "./scripts/notify.js",
+	"activationEvents": [
+		"*"
+	],
     "license": "MIT"
 }
