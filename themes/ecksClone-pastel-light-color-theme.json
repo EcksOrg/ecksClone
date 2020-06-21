@@ -648,6 +648,17 @@
 			"settings": {
 				"foreground": "#EEFFFF"
 			}
+		},
+		// Python Specific
+		{
+			"name": "Python Function names",
+			"scope": [
+				"entity.name.function.python"
+			],
+			"settings": {
+				"foreground": "#5EAD9B",
+			}
 		}
+
 	]
 }
