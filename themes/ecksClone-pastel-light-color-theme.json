@@ -658,6 +658,18 @@
 			"settings": {
 				"foreground": "#5EAD9B",
 			}
+		},
+		
+		// JavaScript Specific
+		{
+			"name": "json property naming",
+			"scope": [
+				"support.type.property-name.json.comments"
+			],
+			"settings": {
+				"foreground": "#e39e20"
+			}
+
 		}
 
 	]
