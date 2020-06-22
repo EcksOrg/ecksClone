@@ -36,6 +36,11 @@
                 "label": "ecksClone Pastel Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/ecksClone-pastel-dark-color-theme.json"
+            },
+            {
+                "label": "ecksClone Pastel Light",
+                "uiTheme": "vs",
+                "path": "./themes/ecksClone-pastel-light-color-theme.json"
             }
         ]
     },
