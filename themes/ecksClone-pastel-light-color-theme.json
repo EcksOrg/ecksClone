@@ -150,7 +150,7 @@
 				"keyword"
 			],
 			"settings": {
-				"foreground": "#ee82b0"
+				"foreground": "#f25296"
 			}
 		},
 		{
@@ -199,7 +199,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#3aaad6"
 			}
 		},
 		{
@@ -213,7 +213,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#3aaad6"
 			}
 		},
 		{
@@ -263,7 +263,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#b160e6"
 			}
 		},
 		{
