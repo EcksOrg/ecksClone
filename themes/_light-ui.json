@@ -6,7 +6,7 @@
 		"activityBar.foreground": "#2a2e2e",
 		"activityBar.background": "#d6d6d6",
 		"titleBar.activeBackground": "#d6d6d6",
-        "statusBar.background": "#2c2d30",
+        "statusBar.background": "#d6d6d6",
         "statusBar.foreground": "#2a2e2e",
         "statusBar.border": "#737475",
         "statusBar.noFolderBackground": "#d6d6d6",
