@@ -13,7 +13,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#818c97"
+				"foreground": "#5b6875"
 			}
 		},
 		{
@@ -165,7 +165,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#ff7059"
+				"foreground": "#ed5239"
 			}
 		},
 		{
@@ -181,7 +181,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#9acfc3"
+				"foreground": "#148c71"
 			}
 		},
 		{
@@ -190,7 +190,7 @@
 				"entity.name.function"
 			],
 			"settings": {
-				"foreground": "#9fd3c7",
+				"foreground": "#0f8066",
 			}
 		},
 		{
@@ -319,7 +319,7 @@
 				"markup.changed"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#b160e6"
 			}
 		},
 		{
@@ -378,7 +378,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#b160e6"
 			}
 		},
 		{
@@ -441,7 +441,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#b160e6"
 			}
 		},
 		{
@@ -469,7 +469,7 @@
 				"text.html.markdown markup.inline.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#b160e6"
 			}
 		},
 		{
@@ -571,7 +571,7 @@
 				"string.other.link.description.title.markdown"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#b160e6"
 			}
 		},
 		{
@@ -589,7 +589,7 @@
 				"markup.raw.block"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#b160e6"
 			}
 		},
 		{
