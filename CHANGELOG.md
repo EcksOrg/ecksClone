@@ -1,5 +1,24 @@
 # Change Log
 
+## 1.0.0
+
+This is the first major version of ecksClone.
+
+## New Features
+
+- Added a light theme (ecksClone Pastel Light)
+
+## Improvements & fixes
+
+- Added borders to elements of the interface
+- Pastel/Dark: updated inactive background (no folder)
+- Unified UI colours
+- Unified syntax colours between light & dark themes
+
+Thank you for using ecksClone, we hope you enjoy this update.
+
+Nevexo & Jack-JB.
+
 ## 0.2.4
 
 Added notification script, this script will alert users of new features when we upgrade
