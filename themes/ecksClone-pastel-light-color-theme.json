@@ -454,13 +454,22 @@
 			}
 		},
 		{
+			"name": "Markdown - heading",
+			"scope": [
+				"entity.name.section.markdown"
+			],
+			"settings": {
+				"foreground": "#aa2aeb",
+			}
+		},
+		{
 			"name": "Markdown - Plain",
 			"scope": [
 				"text.html.markdown",
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#41a6a6"
 			}
 		},
 		{
@@ -489,7 +498,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#85b53f"
 			}
 		},
 		{
@@ -657,6 +666,15 @@
 			],
 			"settings": {
 				"foreground": "#5EAD9B",
+			}
+		},
+		{
+			"name": "python variable",
+			"scope": [
+				"variable.python"
+			],
+			"settings": {
+				"foreground": "#3AAAD6",
 			}
 		},
 		// Json Specific
