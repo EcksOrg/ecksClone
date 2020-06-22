@@ -669,6 +669,15 @@
 				"foreground": "#e39e20"
 			}
 		},
-		
+		//C++ Specific
+		{
+			"name": "cpp variable naming",
+			"scope": [
+				"variable.cpp"
+			],
+			"settings": {
+				"foreground": "#3AAAD6"
+			}
+		}
 	]
 }
