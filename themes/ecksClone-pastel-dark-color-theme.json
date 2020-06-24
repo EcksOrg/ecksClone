@@ -5,8 +5,10 @@
 	"colors": {
 	},
 	"semanticTokenColors": {
-		
+		"parameter": "#d18b2f",
+		"variable": "#F07178"
 	},
+	"semanticHighlighting": true,
 	"tokenColors": [
 		{
 			"name": "Comment",
