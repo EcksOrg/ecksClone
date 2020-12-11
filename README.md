@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="128" height="128" src="https://raw.githubusercontent.com/Nevexo/ecksclone/master/assets/logo.png">
+  <img width="128" height="128" src="https://raw.githubusercontent.com/EcksOrg/ecksclone/master/assets/logo.png">
 </p>
 
 # ecksClone
@@ -10,18 +10,18 @@ Yet Another Xcode like theme for Visual Studio Code, by
 
 #### ecksClone Pastel Dark
 
-![ecksClone-Pastel-Dark](https://raw.githubusercontent.com/Nevexo/ecksclone/devel/screenshots/ecksClonePastelDark.png "ecksClone Pastel Dark")
+![ecksClone-Pastel-Dark](https://raw.githubusercontent.com/EcksOrg/ecksclone/devel/screenshots/ecksClonePastelDark.png "ecksClone Pastel Dark")
 
 #### ecksClone Pastel Light
 
-![ecksClone-Pastel-Light](https://raw.githubusercontent.com/Nevexo/ecksclone/devel/screenshots/ecksClonePastelLight.png "ecksClone Pastel Light")
+![ecksClone-Pastel-Light](https://raw.githubusercontent.com/EcksOrg/ecksclone/devel/screenshots/ecksClonePastelLight.png "ecksClone Pastel Light")
 
 [*Font: Fira Code Retina*](https://github.com/tonsky/FiraCode)
 
 ## Installation
 
 You can install this theme from [The Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=NevexoJack-JB.ecksclone)
-or by installing the VSIX file from the latest [release](https://github.com/nevexo/ecksClone/releases).
+or by installing the VSIX file from the latest [release](https://github.com/EcksOrg/ecksClone/releases).
 
 The VSIX file can be installed by opening the extensions panel, clicking the 'More Actions' button (top right)
 and selecting "Install from VSIX...", select the downloaded file and change your colour theme with the command
