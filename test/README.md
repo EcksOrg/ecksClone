@@ -26,18 +26,18 @@ over to ensure the issue reported hasn't resurfaced.
 
 ### Issue #3 - Template strings don't format as normal strings
 
-https://github.com/Nevexo/ecksClone/issues/3
+https://github.com/EcksOrg/ecksClone/issues/3
 
 Test against: javascript/templating.js
 
 ### Issue #7 - Parentheses inside of a function call are formatted like a string
 
-https://github.com/Nevexo/ecksClone/issues/7
+https://github.com/EcksOrg/ecksClone/issues/7
 
 Test against: python/basic.py
 
 ### Issue #9 (light) - JSON colours unreadable on white background
 
-https://github.com/Nevexo/ecksClone/issues/9
+https://github.com/EcksOrg/ecksClone/issues/9
 
 Test against: javascript/json.json & javascript/json_comments.json

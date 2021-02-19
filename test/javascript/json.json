@@ -16,13 +16,13 @@
         "theme": "light"
     },
     "bugs": {
-        "url": "https://github.com/Nevexo/ecksClone/issues",
+        "url": "https://github.com/EcksOrg/ecksClone/issues",
         "email": "cameron@nevexo.space"
     },
-    "homepage": "https://github.com/Nevexo/ecksClone",
+    "homepage": "https://github.com/EcksOrg/ecksClone",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Nevexo/ecksClone"
+        "url": "https://github.com/EcksOrg/ecksClone"
     },
     "engines": {
         "vscode": "^1.30.0"
