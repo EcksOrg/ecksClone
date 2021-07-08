@@ -4,6 +4,12 @@
 	"include": "./_dark_ui.json",
 	"colors": {
 	},
+	"semanticTokenColors": {
+		"parameter": "#d18b2f",
+		"variable": "#F07178",
+		"property": "#FFFFFF"
+	},
+	"semanticHighlighting": true,
 	"tokenColors": [
 		{
 			"name": "Comment",
